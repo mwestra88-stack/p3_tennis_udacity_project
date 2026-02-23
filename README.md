@@ -214,6 +214,8 @@ checkpoint_critic2.pth
 ├── maddpg_agent.py
 ├── Tennis.ipynb
 ├── README.md
+├── LICENSE
+├── Report.pdf
 ├── checkpoint_actor1.pth
 ├── checkpoint_actor2.pth
 ├── checkpoint_critic1.pth
