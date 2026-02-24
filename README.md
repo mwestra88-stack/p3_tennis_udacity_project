@@ -6,6 +6,8 @@ This project solves the **Tennis** environment from the Udacity Deep Reinforceme
 
 In this environment, two agents control rackets to bounce a ball over a net. The goal is to keep the ball in play cooperatively.
 
+90% of this readme has been written by ChatGPT based on input and Python code provided by me
+
 ### Environment Description
 
 - **Number of agents:** 2  
